@@ -18,5 +18,7 @@ A collection of npm modules for working with words and language
 - [ord.zeke.xxx](https://github.com/zeke/translator): A website/webservice for displaying wikipedia word translations
 - [spellchecker](https://github.com/atom/node-spellchecker): Bindings to native spellchecker
 - [superb](https://github.com/sindresorhus/superb): Get superb like words
+- [superheroes](https://github.com/sindresorhus/superheroes): Get superhero names
+- [supervillains](https://github.com/sindresorhus/supervillains): Get supervillain names
 - [wikipedia-translator](https://github.com/zeke/wikipedia-translator): Scrape translations from Wikipedia pages
 - [word-list](https://github.com/sindresorhus/word-list) - List of English words.
