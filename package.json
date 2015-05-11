@@ -1,6 +1,6 @@
 {
   "name": "npm-collection-language-tools",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A collection of npm modules for working with words and language",
   "main": "index.js",
   "dependencies": {
