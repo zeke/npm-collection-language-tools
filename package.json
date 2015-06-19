@@ -13,6 +13,7 @@
     "did-you-mean": "0.0.1",
     "dog-names": "^1.0.2",
     "inflection": "^1.6.0",
+    "jaro-winkler": "^0.2.6",
     "leven": "^1.0.1",
     "levenmorpher": "^1.1.0",
     "lunr": "^0.5.7",

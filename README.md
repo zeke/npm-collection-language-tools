@@ -1,4 +1,4 @@
-# npm-collection-language-tools
+# npm-collection-language-tools 
 
 A collection of npm modules for working with words and language
 
@@ -11,6 +11,7 @@ A collection of npm modules for working with words and language
 - [did-you-mean](https://github.com/inca/did-you-mean): Fuzzy match a command from a list (typo-safety)
 - [dog-names](https://github.com/sindresorhus/dog-names): Get popular dog names
 - [inflection](https://github.com/git+https:/): A port of inflection-js to node.js module
+- [jaro-winkler](https://github.com/jordanthomas/jaro-winkler): A string similarity function using the Jaro-Winkler distance metric.
 - [leven](https://github.com/sindresorhus/leven): Measure the difference between two strings using the fastest JS implementation of the Levenshtein distance algorithm
 - [levenmorpher](https://github.com/zeke/levenmorpher): Morph one word into another, one word at a time.
 - [lunr](https://github.com/olivernn/lunr.js): Simple full-text search in your browser.
