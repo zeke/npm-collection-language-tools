@@ -23,6 +23,7 @@ A collection of npm modules for working with words and language
 - [npm-synonym](https://github.com/zeke/npm-synonym): Turn your three-word-phrase into an abbreviation of n-p-m.
 - [ord.zeke.xxx](https://github.com/zeke/translator): A website/webservice for displaying wikipedia word translations
 - [passive-voice](https://github.com/zeke/npm-collection-language-tools.git): detect passive voice
+- [retext](https://github.com/wooorm/retext): Extensible system for analysing and manipulating natural language
 - [superb](https://github.com/sindresorhus/superb): Get superb like words
 - [superheroes](https://github.com/sindresorhus/superheroes): Get superhero names
 - [supervillains](https://github.com/sindresorhus/supervillains): Get supervillain names
