@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "adverb-where": "0.0.7",
+    "alex": "^1.2.0",
     "alphabet": "^1.0.0",
     "an-array-of-english-words": "^1.0.0",
     "cat-names": "^1.0.2",
@@ -12,6 +13,7 @@
     "cmu-pronouncing-dictionary": "^1.0.1",
     "did-you-mean": "0.0.1",
     "dog-names": "^1.0.2",
+    "franc": "^1.1.1",
     "inflection": "^1.6.0",
     "jaro-winkler": "^0.2.6",
     "leven": "^1.0.1",

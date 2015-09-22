@@ -3,6 +3,7 @@
 A collection of npm modules for working with words and language
 
 - [adverb-where](https://github.com/duereg/adverb-where): Find adverbs in your writings
+- [alex](https://github.com/wooorm/alex): Catch insensitive, inconsiderate writing
 - [alphabet](https://github.com/jonschlinkert/alphabet): The english alphabet as a string or array, upper and lowercase.
 - [an-array-of-english-words](https://github.com/zeke/an-array-of-english-words): An array of ~275,000 English words. Works with node, iojs, and browserify.
 - [cat-names](https://github.com/sindresorhus/cat-names): Get popular cat names
@@ -10,6 +11,7 @@ A collection of npm modules for working with words and language
 - [cmu-pronouncing-dictionary](https://github.com/zeke/cmu-pronouncing-dictionary): All the 134,000+ words in the CMU pronouncing dictionary as a simple JSON object
 - [did-you-mean](https://github.com/inca/did-you-mean): Fuzzy match a command from a list (typo-safety)
 - [dog-names](https://github.com/sindresorhus/dog-names): Get popular dog names
+- [franc](https://github.com/wooorm/franc): Detect the language of text
 - [inflection](https://github.com/dreamerslab/node.inflection): A port of inflection-js to node.js module
 - [jaro-winkler](https://github.com/jordanthomas/jaro-winkler): A string similarity function using the Jaro-Winkler distance metric.
 - [leven](https://github.com/sindresorhus/leven): Measure the difference between two strings using the fastest JS implementation of the Levenshtein distance algorithm
